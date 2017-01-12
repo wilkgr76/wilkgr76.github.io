@@ -59,7 +59,15 @@ img {
 	background-color:rgba(255,255,255,0.3);
 }
 .name {
+	display: inline-block; 	
 	text-align: center;
 	width: 50%;
 	
 }
+.sub {
+	display: inline-block; 	
+	text-align: center;
+	width: 100%;
+	
+}
+
