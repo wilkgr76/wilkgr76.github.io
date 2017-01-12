@@ -61,7 +61,7 @@ img {
 .name {
 	display: inline-block; 	
 	text-align: center;
-	width: 50%;
+	/* width: 50%; */
 	
 }
 .sub {
