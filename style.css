@@ -61,12 +61,16 @@ img {
 .name {
 	display: inline-block; 	
 	text-align: center;
+	border-left: 1px;
+	border-right: 1px;
 	
 }
 .sub {
 	display: inline-block; 	
 	text-align: center;
 	width: 100%;
+	border-left: 1px;
+	border-right: 1px;
 	
 }
 
