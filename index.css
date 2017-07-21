@@ -8,3 +8,6 @@ h1 {
 .old {
   color: lightgray;
 }
+a {
+  color: inherit;
+}
