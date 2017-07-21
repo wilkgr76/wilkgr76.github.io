@@ -1,5 +1,5 @@
 #projects {
-
+  color: darkgrey;
 }
 h1 {
   font-family: sans-serif;
@@ -7,4 +7,5 @@ h1 {
 }
 .old {
   color: lightgrey;
+
 }
