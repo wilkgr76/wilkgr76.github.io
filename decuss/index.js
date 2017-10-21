@@ -22,6 +22,10 @@ var toReplace = [
   {
     regex: /asshole/g,
     text: "extremely polite person"
+  },
+  {
+    regex: /fuck/g,
+    text: "help"
   }
 ]
 
