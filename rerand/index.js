@@ -8,4 +8,4 @@ function replaceText() {
   document.getElementById("input").value = text;
 }
 
-document.getElementById("input").addEventListener("keyup",replaceText)
+document.getElementById("input").addEventListener("keypress",replaceText)
