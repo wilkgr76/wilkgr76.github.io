@@ -1,0 +1,52 @@
+#entryBoxDiv {
+  margin: auto;
+  width: 75%;
+  display: none;
+}
+#entryBox {
+  font-size: 3em;
+  width: 100%;
+  font-family: sans-serif;
+}
+#logoInfo {
+  margin: auto;
+  width: 75%;
+}
+
+#notFound {
+  display: none;
+}
+
+#unavailable {
+  margin: auto;
+  text-align: center;
+  font-size: 2em;
+  display: none;
+  border: solid 3px red;
+  width: 50%;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+/* Table */
+#infoTable {
+  width: 50%;
+  margin: auto;
+  padding-top: 2em;
+  display: none;
+  border-collapse:collapse;
+}
+th {
+  text-align: left;
+  border: solid 1px grey;
+}
+td {
+  text-align: center;
+  border: solid 1px grey;
+  padding: 3px;
+}
+.tHeader {
+  text-align: center;
+  padding: 5px;
+  background-color: lightgrey;
+}

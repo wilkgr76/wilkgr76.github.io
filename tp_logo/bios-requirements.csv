@@ -1,0 +1,291 @@
+model,generation,support_bmp,support_jpg,support_gif,main_res,main_size,main_colours,main_name,secondary_res,secondary_size,secondary_colours,secondary_name
+T60,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+T60p,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+R60,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+R60i,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+R60e,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X60,60 (2006),false,false,false,640x480,10kb,16,logo.bmp,,,,
+X60s,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X60 tablet,60 (2006),true,false,false,640x480,10kb,16,logo.bmp,,,,
+T61,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T61p,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+R61,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+R61i,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+R61e,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Z61e,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Z61m,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Z61t,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Z61p,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+X61,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+X61s,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Reserve Edition,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+X61 tablet,61,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T400,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+R400,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+T400s,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+T500,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+R500,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+SL300,00 (2008),false,false,false,,,,,,,,
+SL400,00 (2008),false,false,false,,,,,,,,
+SL400c,00 (2008),false,false,false,,,,,,,,
+SL500,00 (2008),false,false,false,,,,,,,,
+X100e,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X200,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X200s,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X200si,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X200 tablet,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X300,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X201,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X201i,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X201s,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X201 tablet,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X201i tablet,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+X301,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+W500,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+W700,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+W700ds,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+W701,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+W701ds,00 (2008),true,false,false,640x480,10kb,16,logo.bmp,,,,
+T410,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T410i,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T410s,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T410si,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T510,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T510i,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Edge 11 / E10,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Edge 13 / E30 / E31,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Edge 14 / E40,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+Edge 15 / E50,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+SL410,10,true,false,false,848x480,40kb,256,logo.bmp,,,,
+SL510,10,true,false,false,848x480,40kb,256,logo.bmp,,,,
+L410,10,true,false,false,848x480,40kb,256,logo.bmp,,,,
+L510,10,true,false,false,848x480,40kb,256,logo.bmp,,,,
+W510,10,true,false,false,640x480,10kb,16,logo.bmp,,,,
+T420,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+T420i,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+T420s,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+T420si,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+T520,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+T520i,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+W520,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E220s,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E320,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E325,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E420,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E425,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E420s,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E520,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+E525,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+L420,20,true,false,false,848x480,40kb,256,logo.bmp,,,,
+L421,20,true,false,false,848x480,40kb,256,logo.bmp,,,,
+L520,20,true,false,false,848x480,40kb,256,logo.bmp,,,,
+L412,20,true,false,false,848x480,40kb,256,logo.bmp,,,,
+L512,20,true,false,false,848x480,40kb,256,logo.bmp,,,,
+X120e,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X121e,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X220,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X220i,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X220 tablet,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X220i tablet,20,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X1 Gen 0,20,false,false,false,,,,,,,,
+X1 Hybrid ,20,false,false,false,,,,,,,,
+T430i,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+T430s,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+T430si,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+T430u,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+T431s,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+T530,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+T530i,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+W530,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E130,30,false,false,false,,,,,,,,
+E135,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E430,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E430c,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E431,30,false,false,false,,,,,,,,
+E435,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E530,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E530c,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E531,30,false,false,false,,,,,,,,
+E535,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+Helix,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X1 Helix,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X1 Helix 3G,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+S230u (twist),30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+S531,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+L430,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+L530,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X130e,30,true,true,true,640x480,30kb,unlimited,logo.(extension),,,,
+X131e,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X230,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X230i,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X230s,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X230 tablet,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X230i tablet,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+X1C Gen 1,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+Yoga S1,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+Yoga 12,30,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T440,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T440p,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T440s,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T540p,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+W540,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+W541,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E145,40,false,false,false,,,,,,,,
+E440,40,false,false,false,,,,,,,,
+E540,40,false,false,false,,,,,,,,
+E545,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+E445,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768,30kb,unlimited,logo2.(extension)
+Helix II,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+S440,40,false,false,false,,,,,,,,
+L440,40,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L540,40,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+X240,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+X240s,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+X1C Gen 2,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+Yoga 11e Gen 1,40,,,,,,,,,,,
+S3 yoga 14,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+S5 yoga 15,40,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T450,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T450s,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+T550,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+W550s,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E450,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E450c,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E455,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E550,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E550c,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+E555,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+L450,50,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+X250,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+X1C Gen 3,50,true,true,true,640x480,30kb,unlimited,logo1.(extension),1366x768 or 1920x432,30kb,unlimited,logo2.(extension)
+11e yoga Gen 2,50,,,,,,,,,,,
+Yoga 260,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T460,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T460p,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+T460s,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T560,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P50s,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P50 ,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P70,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P40 yoga,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+Thinkpad S3,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+Yoga 460,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+Yoga 14 (20FY),60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E460,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E465,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E560,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E565,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L460,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L560,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+11e yoga Gen 3,60,,,,,,,,,,,
+X1 yoga Gen 1,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1C Gen 4,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Tablet Gen 1,60,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X260,60,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+T470,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+Thinkpad 25,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T470p,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+T470s,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T570,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P51s,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+A475,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P51,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P71,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E470,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E470c,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E475,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E570,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E575,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E570c,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+E570p,70,,,,,,,,,,,
+Thinkpad 13 / S2,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L470,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L570,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+11e Yoga Gen 4,70,,,,,,,,,,,
+Yoga 370,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+Yoga S1 Gen 3,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Yoga Gen 2,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X270,70,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+X1 Tablet Gen 2,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1C Gen 5,70,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T480,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T480s,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T580,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P52s,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+A485,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P52,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P72,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E480,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E485,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E580,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E585,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L380,80,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L380 yoga,80,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+Thinkpad S2,80,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+Thinkpad S2 Yoga,80,true,true,true,falsene given,60kb,unlimited,logo.(extension),,,,
+L480,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L580,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+R480,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+R580,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X380 Yoga,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+Yoga S1 Gen 4,,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+11e Yoga Gen 5,80,,,,,,,,,,,
+X1 Yoga Gen 3,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X280,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Tablet Gen 3,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1C Gen 6,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Extreme Gen 1,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P1 Gen 1,80,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T490,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T490s,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T495,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T495s,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T590,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P43s,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P53s,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X390,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P53,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P73,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E490,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E490s,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E495,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E590,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E595,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L390,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+Thinkpad S2 Yoga Gen 4,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L390 yoga,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+Thinkpad S2 Gen 4,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L490,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L590,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+R490,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+R590,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+ThinkPad S3,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X390 yoga,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Yoga Gen 4,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X395,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1C Gen 7,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Extreme Gen 2,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P1 Gen 2,90,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T14,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T14s,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T15,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T15p,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+T15g,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P15,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P17,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P14s,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P15s,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E14,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E15,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L13,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L13 yoga,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L14,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+L15,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X13 Yoga,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+11e Yoga Gen 6,1 (2020),,,,,,,,,,,
+X1 Yoga Gen 5,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X13,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1C Gen 8,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+X1 Extreme Gen 3,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+P1 Gen 3,1 (2020),true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,
+E14 Gen 2,2,true,true,true,40% panel res,60kb,unlimited,logo.(extension),,,,

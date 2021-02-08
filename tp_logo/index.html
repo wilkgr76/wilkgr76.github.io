@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ThinkPad BIOS Logo Reference</title>
+  <script src="papaparse.min.js"></script>
+  <link rel="stylesheet" href="thinkpad-bios.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <noscript>Please enable JavaScript to continue!</noscript>
+  <div id="entryBoxDiv">
+    <input type="text" id="entryBox" placeholder="Enter ThinkPad Model" list="modelList" disabled>
+  </div>
+  <div id="logoInfo">
+    <span id="notFound">⚠️ ThinkPad not found.</span>
+    <div id="unavailable">⚠️ Information unavailable</div>
+    <table id="infoTable">
+      <tr><th colspan="2" class="tHeader">Model Information</th></tr>
+      <tr><th>Model Name</td><td id="modelName"></td></tr>
+      <tr><th>Generation</th><td id="modelGeneration"></td></tr>
+      <tr><th colspan="2" class="tHeader">Primary Custom Boot Logo</th></tr>
+      <tr><th>Supported</th><td id="1_supported"></td></tr>
+      <tr class="primary"><th>Supports BMP</th><td id="supportBMP"></td></tr>
+      <tr class="primary"><th>Supports JPG</th><td id="supportJPG"></td></tr>
+      <tr class="primary"><th>Supports GIF</th><td id="supportGIF"></td></tr>
+      <tr class="primary"><th>Resolution</th><td id="1_res"></td></tr>
+      <tr class="primary"><th>Max File Size</th><td id="1_size"></td></tr>
+      <tr class="primary"><th>Max Number of Colours</th><td id="1_col"></td></tr>
+      <tr class="primary"><th>Filename</th><td id="1_name"></td></tr>
+      <tr><th colspan="2" class="tHeader">Secondary Custom Boot Logo</th></tr>
+      <tr><th>Supported</th><td id="2_supported"></td></tr>
+      <tr class="secondary"><th>Resolution</th><td id="2_res"></td></tr>
+      <tr class="secondary"><th>Max File Size</th><td id="2_size"></td></tr>
+      <tr class="secondary"><th>Max Number of Colours</th><td id="2_col"></td></tr>
+      <tr class="secondary"><th>Filename</th><td id="2_name"></td></tr>
+    </table>
+  </div>
+  <datalist id="modelList"></datalist>
+  <script src="main.js"></script>
+</body>
+</html>
